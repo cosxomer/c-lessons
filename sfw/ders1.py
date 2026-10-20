@@ -1,0 +1,5 @@
+print("Selamün Aleyküm Dünya")
+ad=input("Adın nedir?")
+dogum_yili=input("Hangi yılda doğdun ?")
+yas=2026-int(dogum_yili)
+print("Hoş geldin"+ad+"sen şuan"+str(yas)+"yaşındasın.") 
